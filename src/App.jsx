@@ -193,7 +193,7 @@ const handleclick=()=>{
         </div>
         <div className='flex p-2 gap-4'>
           <a href="#"><FaGithub size={30}/></a>
-          <a href="https://www.belsoftsystems.com/" target='_blank'><CiLink size={30} /></a>
+          <a href="https://glittering-beignet-7e6786.netlify.app" target='_blank'><CiLink size={30} /></a>
         </div>
 
       </div>
