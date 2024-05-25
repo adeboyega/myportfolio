@@ -39,14 +39,14 @@ const handleclick=()=>{
       <ul className={active ? 'flex flex-col gap-2 z-10 w-[60%] h-screen p-2 items-center justify-evenly transition ease-in-out duration-500 sm:hidden':'-translate-x-[200%] sm:hidden '}>
       <a href="#about">ABOUT</a>
       <a href="#projects"> PROJECTS</a>
-      <a href="#blog">BLOG</a>
+      <a href="https://abayomisblog.vercel.app/">BLOG</a>
       <a href="#contact"> CONTACT</a>
       <a href={resume} download={resume} className='px-6 py-2 border-2 border-gray-400 text-blue-900 font-bold rounded-lg shadow-lg'>RESUME</a>
       </ul>
       <ul className='hidden sm:flex justify-evenly w-[85%] items-center  '>
       <a href="#about">ABOUT</a>
       <a href="#projects"> PROJECTS</a>
-      <a href="#blog">BLOG</a>
+      <a href="https://abayomisblog.vercel.app/">BLOG</a>
       <a href="#contact"> CONTACT</a>
       <a href={resume} download={resume} className='px-6 py-2 border-2 translate-x-16 border-gray-400 text-blue-900 font-bold rounded-lg shadow-lg'>RESUME</a>
       </ul>
